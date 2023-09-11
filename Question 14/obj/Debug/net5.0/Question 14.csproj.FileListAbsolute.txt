@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Defining Classes\Question 14\obj\Debug\net5.0\Question 14.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Defining Classes\Question 14\obj\Debug\net5.0\Question 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Defining Classes\Question 14\obj\Debug\net5.0\Question 14.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Defining Classes\Question 14\obj\Debug\net5.0\Question 14.AssemblyInfo.cs
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Defining Classes\Question 14\obj\Debug\net5.0\Question 14.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Defining Classes\Question 14\bin\Debug\net5.0\Question 14.exe
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Defining Classes\Question 14\bin\Debug\net5.0\Question 14.deps.json
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Defining Classes\Question 14\bin\Debug\net5.0\Question 14.runtimeconfig.json
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Defining Classes\Question 14\bin\Debug\net5.0\Question 14.runtimeconfig.dev.json
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Defining Classes\Question 14\bin\Debug\net5.0\Question 14.dll
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Defining Classes\Question 14\bin\Debug\net5.0\ref\Question 14.dll
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Defining Classes\Question 14\bin\Debug\net5.0\Question 14.pdb
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Defining Classes\Question 14\obj\Debug\net5.0\Question 14.dll
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Defining Classes\Question 14\obj\Debug\net5.0\ref\Question 14.dll
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Defining Classes\Question 14\obj\Debug\net5.0\Question 14.pdb
+C:\Users\user\Documents\Algorithm Questions\Fundamental\Defining Classes\Question 14\obj\Debug\net5.0\Question 14.genruntimeconfig.cache
